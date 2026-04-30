@@ -1,0 +1,4 @@
+standard_product_code,standard_product_name,control_type,service_systems,billing_systems
+STD_BB_FTTC,Broadband FTTC,Completeness,"Siebel,CSS","Antillia,CSS"
+STD_BB_FTTP,Broadband FTTP,Completeness,"Siebel,CSS","Antillia,CSS"
+STD_PSTN_LINE,PSTN Line,Completeness,"Siebel,CSS","Antillia,CSS"

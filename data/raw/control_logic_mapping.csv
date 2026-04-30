@@ -1,0 +1,3 @@
+control_type,product_family,logic_description,exception_condition
+Completeness,Broadband,Active service should have an active billing product for the mapped standard product code.,Service active AND matching billing missing or billing status not Active
+Completeness,Voice,Active voice service should have an active billing product for the mapped standard product code.,Service active AND matching billing missing or billing status not Active

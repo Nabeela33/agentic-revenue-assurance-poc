@@ -1,0 +1,4 @@
+standard_product_code,standard_product_name,product_family,siebel_product_code,siebel_product_name,antillia_product_code,antillia_product_name,css_product_code,css_product_name
+STD_BB_FTTC,Broadband FTTC,Broadband,SBB_FTTC,Siebel Broadband FTTC,ABB_FTTC,Antillia Broadband FTTC,CSS_BB_FTTC,CSS Broadband FTTC
+STD_BB_FTTP,Broadband FTTP,Broadband,SBB_FTTP,Siebel Broadband FTTP,ABB_FTTP,Antillia Broadband FTTP,CSS_BB_FTTP,CSS Broadband FTTP
+STD_PSTN_LINE,PSTN Line,Voice,SPSTN_LINE,Siebel PSTN Line,APSTN_LINE,Antillia PSTN Line,CSS_PSTN_LINE,CSS PSTN Line
